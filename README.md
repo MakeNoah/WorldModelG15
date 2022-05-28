@@ -2,4 +2,6 @@
 2021年度「世界モデルと知能」　https://deeplearning.jp/lectures/world-model-2021/
 最終課題プロジェクト
 
-pybullet環境で強化学習による経路計画とRSSMによる危険状態の予測を行い未然に衝突を防ぐことを目的とする
+Duckie-town環境における運転タスクにおいてフロントカメラの観測画像を利用し、RSSMによる時刻方向への推移と衝突危険度の予測を行う
+
+移動しました→https://github.com/WorldModelG15/final-task
